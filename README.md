@@ -20,7 +20,7 @@ ___
 - [IFPEN (Institut Français du Pétrole Energies Nouvelles)](https://www.ifpenergiesnouvelles.fr/)
 - [SCP (Société du Canal de Provence)](https://canaldeprovence.com/)
 <div align="center">
-  <img src="logo_entreprises_.png" alt="Logos entreprises" width="250"/>
+  <img src="logo_entreprises_.png" alt="Logos entreprises" width="750"/>
 </div>
 
 ### Competitions & Organizations I Participated With :
@@ -31,7 +31,7 @@ ___
 
 
 <div align="center">
-  <img src="logo-competitions.png" alt="Logos entreprises" width="250"/>
+  <img src="logo-competitions.png" alt="Logos entreprises" width="750"/>
 </div>
 
 ___
