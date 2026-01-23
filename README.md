@@ -16,7 +16,7 @@ ___
 
 ### My professional expericence as data scientist 🙌
 - [IFPEN](https://www.ifpenergiesnouvelles.fr/) (Institut Français du Pétrole Energies Nouvelles)
-- [SCP](https://canaldeprovence.com/)
+- [SCP](https://canaldeprovence.com/) (Société du Canal de Provence)
 <div align="center">
   <img src="logo_entreprises_.png" alt="Logos entreprises" width="750"/>
 </div>
