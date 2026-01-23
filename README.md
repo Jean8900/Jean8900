@@ -76,12 +76,10 @@ ___
 
 
 ___
-
 ### Connect with me 🌍 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-martini-64a017228/)
 [![Github Badge](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github&logoColor=white)](https://github.com/Jean8900)
-
-
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/martinijean)
 
 
 
