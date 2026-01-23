@@ -19,9 +19,16 @@ ___
 ### My professional expéricence as datascientist 🙌
 - [IFPEN (Institut Français du Pétrole Energies Nouvelles)](https://www.ifpenergiesnouvelles.fr/)
 - [SCP (Société du Canal de Provence)](https://canaldeprovence.com/)
-<div align="center">
-  <img src="logo_entreprises_.png" alt="Logos entreprises" />
+  
+<div style="display:flex; align-items:center; justify-content:space-between;">
+  <div>
+    <p>### My professional expéricence as datascientist 🙌</p>
+    - [IFPEN (Institut Français du Pétrole Energies Nouvelles)](https://www.ifpenergiesnouvelles.fr/)
+    - [SCP (Société du Canal de Provence)](https://canaldeprovence.com/)
+  </div>
+  <img src="logo_entreprises_.png" alt="Logos entreprises" width="200" />
 </div>
+
 
 ### Competitions & Organizations I Participated With :
 - [CSIRO (Commonwealth Scientific and Industrial Research Organisation)](https://www.csiro.au/) 
