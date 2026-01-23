@@ -26,10 +26,8 @@ ___
 ### Competitions & Organizations I Participated With :
 - [CSIRO (Commonwealth Scientific and Industrial Research Organisation)](https://www.csiro.au/) 
 - [Physionet (2,000+ open-source physiological datasets for medical research)](https://physionet.org/)
-- [Google]
+- Google
 - [UC Davis (University of California, Davis)](https://www.ucdavis.edu/)
-- [AI Mathematical Olympiad](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-3) sponsored by [XTX Markets](https://www.xtxmarkets.com/)
-- 
 
 
 <div align="center">
@@ -40,36 +38,18 @@ ___
 
 ### Featured Projects 📌
 
-- 🔍 [**SQL Fast Learner**](https://github.com/Mastocodeur/sql-fast-learner)  
+- 🔍 [**SQL Fast Learner**](https://github.com/Jean8900/sql_learning)
   A complete SQL course combining theory and hands-on practice in Jupyter Book.
   Covers core and advanced topics like SELECT, JOINs, GROUP BY, CTEs, window functions, CRUD operations, transactions, stored procedures, indexing, and data validation.
   Ideal for beginners, refreshers, and advanced learners aiming to strengthen their SQL skills for real-world data analysis.
-  
-- 🚆 [**SNCF Project**](https://github.com/Mastocodeur/sncf-project)  
-  A Streamlit app that connects to the official SNCF API to monitor real-time train traffic on a specific commute route.  
-  Displays upcoming departures, delays, and cancellations, and sends email alerts when disruptions occur — even those not shown in the station.  
-  Designed for shared use among colleagues who take the same route daily, with an online deployment for easy access.
-
-- 💳 [**RIB Extractor**](https://github.com/Mastocodeur/rib-extractor)  
-  A Streamlit-based OCR application that automatically extracts banking details from French RIB (bank account) PDFs — whether digital or scanned.  
-  Uses **Tesseract OCR**, **regex-based parsing**, and **IBAN/BIC validation** with `python-stdnum`.  
-  Exports structured, validated data (bank code, branch, account number, key, IBAN, BIC, domiciliation, and holder name) to a clean CSV format.  
-  Ideal for accountants, freelancers, and fintech developers dealing with large sets of RIB documents.
-
-
 ___
 
 
 ### Current projects 🚧
 
-🤖 NeaflFun Password
-An intelligent automation project in which an LLM is connected via Selenium to a dynamic password creation site. The aim: to generate a password that adapts in real time to the security rules that gradually appear on the screen.
-
-🧠 Analysis X: Trump and Squeezie on Twitter
-A project to analyse feelings and compare speeches based on scraping tweets. In it I explore the contrasts between political (Donald Trump) and entertainment (Squeezie) communication, applying NLP, text cleaning and visualisation techniques.
-
-🎓 Preparing for Scikit-learn advanced certification
-Exploration and advanced learning of the Scikit-learn library. This project involves an in-depth review of advanced concepts (model selection, pipelines, tuning, etc.) to aim for sklearn's most demanding supervised machine learning certification.
+- [AI Mathematical Olympiad](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-3) sponsored by [XTX Markets](https://www.xtxmarkets.com/)
+- Preparing for [AWS Certified Machine Learning – Associate](https://aws.amazon.com/fr/certification/certified-machine-learning-engineer-associate/)
+Demonstrates ability to design, build, train, and deploy ML models on AWS using SageMaker, including data preparation, feature engineering, hyperparameter tuning, evaluation, and monitoring. Covers ML workflows, model optimization, and production-ready deployment.
 
 ___
 
@@ -77,12 +57,7 @@ ___
 
 **Languages :**  
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"/></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL"/></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R"/></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"/></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"/></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"/></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/mysql-original.svg" alt="SQL"/></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB"/></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX"/></code>
 
