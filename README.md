@@ -69,18 +69,18 @@ ___
 | **Web & UI**                | [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io) [![Taipy](https://img.shields.io/badge/Taipy-1E90FF?style=flat&logo=python&logoColor=white)](https://www.taipy.io) [![Tkinter](https://img.shields.io/badge/Tkinter-FF6F61?style=flat&logo=python&logoColor=white)](https://docs.python.org/3/library/tkinter.html) [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)](https://plotly.com) |
 | **Scraping & Automation**   | [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)](https://www.selenium.dev) [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8B0000?style=flat&logo=python&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/) |
 | **Databases**               | [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com) |
-| **🔐 Cybersécurité**         | [![OSINT](https://img.shields.io/badge/OSINT-5E5DF0?style=flat&logo=search&logoColor=white)](https://osintframework.com) [![Root Me](https://img.shields.io/badge/Root_Me-111111?style=flat&logo=tryhackme&logoColor=white)](https://www.root-me.org) [![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=flat&logo=kalilinux&logoColor=white)](https://www.kali.org) |
-| **Environments**            | [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org) |
+| **Environments**            | [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
+ |
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mastocodeur&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jean8900&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ___
 
 ### Connect with me 🌍 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rgasmi/?locale=en_US)
-[![Github Badge](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github&logoColor=white)](https://github.com/Mastocodeur)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-martini-64a017228/)
+[![Github Badge](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github&logoColor=white)](https://github.com/Jean8900)
 
 
 
