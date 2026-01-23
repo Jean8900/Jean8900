@@ -1,18 +1,15 @@
-## Hi there, Welcome on my Github Page ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+# Hi there, Welcome on my Github Page ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 ![Visiteurs](https://komarev.com/ghpvc/?username=Jean8900&style=flat-square)
-
-
 
 I'm passionate about coding and committed to turning my GitHub into a well-structured, valuable documentation hub.  
 I focus on creating clear, reusable, and insightful resources to help others learn and build effectively.
 
 ___
 
-
-### About Me 🚀
-👨‍💻 Passionate about Data Science & AI  
-🧑‍🎓 Lifelong learner, always curious  
-✍️ Obsessed with clean, well-structured documentation  
+### About Me 🚀  
+🎓 **Graduate from Centrale Lyon** (Top 10 French engineering school), specialized in Data Science & AI  
+👨‍💻 Data Science & AI enthusiast | Top 10% in some Kaggle competitions (prize pool from 50k$ to 2.2M$)
+✍️ I document my work clearly to make it reusable and accessible  
 
 ___
 
