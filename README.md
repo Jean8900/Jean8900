@@ -1,5 +1,7 @@
 ## Hi there, Welcome on my Github Page ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
-![Visiteurs](https://visitor-badge.laobi.icu/badge?page_id=Mastocodeur.Mastocodeur)
+![Visiteurs](https://komarev.com/ghpvc/?username=Jean8900&style=flat-square)
+
+
 
 I'm passionate about coding and committed to turning my GitHub into a well-structured, valuable documentation hub.  
 I focus on creating clear, reusable, and insightful resources to help others learn and build effectively.
