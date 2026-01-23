@@ -16,17 +16,24 @@ ___
 
 ___
 
-### My Experiences 🙌
-- [Data Scientist for Studi (Freelance)](https://www.studi.com/fr)
-- [Data Scientist for ACL Centrale Lyon (Freelance)](https://www.centraliens-lyon.net/)
-- [Data Scientist for smeg.mc (Internship)](https://www.smeg.mc/) 
-- [Data Scientist for Education Nationale (Freelance)](https://www.education.gouv.fr/)
-- [Data Scientist for Orano (Freelance)](https://www.orano.group/fr) 
-- [Data Scientist for datacraft (Internship and freelance)](https://datacraft.paris/) 
-- [Data Analyst for OMAJ (Internship)](https://omaj.fr/)
+### My professional expéricence as datascientist 🙌
+- [IFPEN (Institut Français du Pétrole Energies Nouvelles)](https://www.ifpenergiesnouvelles.fr/)
+- [SCP (Société du Canal de Provence)](https://canaldeprovence.com/)
+<div align="center">
+  <img src="logos_entrepriss.png" alt="Logos entreprises" />
+</div>
+
+### Competitions & Organizations I Participated With :
+- [CSIRO (Commonwealth Scientific and Industrial Research Organisation)](https://www.csiro.au/) 
+- [Physionet (2,000+ open-source physiological datasets for medical research)](https://physionet.org/)
+- [Google]
+- [UC Davis (University of California, Davis)](https://www.ucdavis.edu/)
+- [AI Mathematical Olympiad](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-3) sponsored by [XTX Markets](https://www.xtxmarkets.com/)
+- 
+
 
 <div align="center">
-  <img src="logos_entreprises.png" alt="Logos entreprises" />
+  <img src="logos_entrepriss.png" alt="Logos entreprises" />
 </div>
 
 ___
