@@ -9,14 +9,14 @@ ___
 ### About Me 🚀  
 - 🎓 **Graduate from Centrale Lyon** (Top 10 French engineering school), specialized in Data Science & AI  
 - 👨‍💻 Data Science & AI enthusiast | Top 10% in some data science competitions (prize pool from 50k$ to 2.2M$)  
-- ✍️ If not confidential, I document my work clearly to make it reusable and accessible
+- ✍️ When possible, I document my work clearly to make it reusable and accessible
  
 
 ___
 
-### My professional expericence as datascientist 🙌
-- [IFPEN (Institut Français du Pétrole Energies Nouvelles)](https://www.ifpenergiesnouvelles.fr/)
-- [SCP (Société du Canal de Provence)](https://canaldeprovence.com/)
+### My professional expericence as data scientist 🙌
+- [IFPEN](https://www.ifpenergiesnouvelles.fr/) (Institut Français du Pétrole Energies Nouvelles)
+- [SCP](https://canaldeprovence.com/)
 <div align="center">
   <img src="logo_entreprises_.png" alt="Logos entreprises" width="750"/>
 </div>
