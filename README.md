@@ -7,9 +7,10 @@ I focus on creating clear, reusable, and insightful resources to help others lea
 ___
 
 ### About Me 🚀  
-🎓 **Graduate from Centrale Lyon** (Top 10 French engineering school), specialized in Data Science & AI  
-👨‍💻 Data Science & AI enthusiast | Top 10% in some Kaggle competitions (prize pool from 50k$ to 2.2M$)
-✍️ I document my work clearly to make it reusable and accessible  
+- 🎓 **Graduate from Centrale Lyon** (Top 10 French engineering school), specialized in Data Science & AI  
+- 👨‍💻 Data Science & AI enthusiast | Top 10% in some data science competitions (prize pool from 50k$ to 2.2M$)  
+- ✍️ If not confidential, I document my work clearly to make it reusable and accessible
+ 
 
 ___
 
