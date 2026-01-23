@@ -19,16 +19,9 @@ ___
 ### My professional expéricence as datascientist 🙌
 - [IFPEN (Institut Français du Pétrole Energies Nouvelles)](https://www.ifpenergiesnouvelles.fr/)
 - [SCP (Société du Canal de Provence)](https://canaldeprovence.com/)
-  
-<div style="display:flex; align-items:center; justify-content:space-between;">
-  <div>
-    <p>### My professional expéricence as datascientist 🙌</p>
-    - [IFPEN (Institut Français du Pétrole Energies Nouvelles)](https://www.ifpenergiesnouvelles.fr/)
-    - [SCP (Société du Canal de Provence)](https://canaldeprovence.com/)
-  </div>
-  <img src="logo_entreprises_.png" alt="Logos entreprises" width="200" />
+<div align="center">
+  <img src="logo_entreprises_.png" alt="Logos entreprises" />
 </div>
-
 
 ### Competitions & Organizations I Participated With :
 - [CSIRO (Commonwealth Scientific and Industrial Research Organisation)](https://www.csiro.au/) 
@@ -88,9 +81,3 @@ ___
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-martini-64a017228/)
 [![Github Badge](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github&logoColor=white)](https://github.com/Jean8900)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/martinijean)
-
-
-
-
-
-
