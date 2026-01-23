@@ -16,7 +16,7 @@ ___
 
 ___
 
-### My professional expéricence as datascientist 🙌
+### My professional expericence as datascientist 🙌
 - [IFPEN (Institut Français du Pétrole Energies Nouvelles)](https://www.ifpenergiesnouvelles.fr/)
 - [SCP (Société du Canal de Provence)](https://canaldeprovence.com/)
 <div align="center">
@@ -24,10 +24,10 @@ ___
 </div>
 
 ### Competitions & Organizations I Participated With :
-- [CSIRO (Commonwealth Scientific and Industrial Research Organisation)](https://www.csiro.au/) 
-- [Physionet (2,000+ open-source physiological datasets for medical research)](https://physionet.org/)
+- [CSIRO](https://www.csiro.au/) (Commonwealth Scientific and Industrial Research Organisation)
+- [Physionet](https://physionet.org/) (2,000+ open-source physiological datasets for medical research)
 - Google
-- [UC Davis (University of California, Davis)](https://www.ucdavis.edu/)
+- [UC Davis](https://www.ucdavis.edu/) (University of California, Davis)
 
 
 <div align="center">
