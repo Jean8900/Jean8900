@@ -34,14 +34,6 @@ ___
 
 ___
 
-### Featured Projects 📌
-
-- 🔍 [**SQL Learning**](https://github.com/Jean8900/sql_learning)
-  A complete SQL course combining theory and hands-on practice in Jupyter Book.
-  Covers core and advanced topics like SELECT, JOINs, GROUP BY, CTEs, window functions, CRUD operations, transactions, stored procedures, indexing, and data validation.
-  Ideal for beginners, refreshers, and advanced learners aiming to strengthen their SQL skills for real-world data analysis.
-___
-
 
 ### Current projects 🚧
 
