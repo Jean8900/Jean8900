@@ -1,14 +1,14 @@
 # Hi there, Welcome on my Github Page ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 ![Visiteurs](https://komarev.com/ghpvc/?username=Jean8900&style=flat-square)
 
-I'm passionate about coding and committed to turning my GitHub into a well-structured, valuable documentation hub.  
-I focus on creating clear, reusable, and insightful resources to help others learn and build effectively.
-
 ___
 
-### About Me 🚀  
-- 🎓 **Graduate from Centrale Lyon** (Top 10 French engineering school), specialized in Data Science & AI  
-- 👨‍💻 Data Science & AI enthusiast | Top 10% in some data science competitions (prize pool from 50k$ to 2.2M$)  
+### About Me 🚀
+- 🎓 **Graduate from Centrale Lyon** (Top 10 French engineering school, class of 2025), specialized in Data Science & AI
+- 💼 **Data Scientist / AI Engineer at ILLUIN Technology** (since April 2026)
+- 👨‍💻 Data Science & AI enthusiast | Top 10% in some data science competitions (prize pool around 50k$)
+- 🏆 Top 3 at the Mistral x GE Healthcare AI Hackathon (1,750€ prize, code handed off to GE Healthcare)
+- 🤝 Active in the Parisian AI community — volunteered at the Adopt AI Forum 2025 (Grand Palais)
 - ✍️ When possible, I document my work clearly to make it reusable and accessible
  
 
